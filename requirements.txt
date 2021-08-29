@@ -9,4 +9,3 @@ youtube_search
 requests
 aiohttp==3.6.2
 aiofiles
-callsmusic
