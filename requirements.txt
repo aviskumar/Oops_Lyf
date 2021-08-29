@@ -5,6 +5,7 @@ Pyrogram
 pytgcalls==0.0.23
 wheel
 youtube_dl
+youtube_search
 requests
 aiohttp==3.6.2
 aiofiles
