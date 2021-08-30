@@ -2,7 +2,7 @@ TgCrypto
 ffmpeg-python
 psutil
 git+https://github.com/pyrogram/pyrogram@master
-pytgcalls==3.0.0.dev8
+pytgcalls==3.0.0.dev9
 wheel
 youtube_dl
 requests
